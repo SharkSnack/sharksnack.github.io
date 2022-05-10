@@ -7,13 +7,13 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 ![Shiren 1 Box Art](https://m.media-amazon.com/images/I/51HR71D448L._SL160_.jpg)
 
-[English Patch (SNES)](https://www.romhacking.net/translations/483/)
+[English Patch (SNES - Fully Playable)](https://www.romhacking.net/translations/483/)
 
 ### Shiren the Wanderer 2 (Nintendo 64)
 
 ![Shiren 2 Box Art](https://m.media-amazon.com/images/I/51F3ZTKAVXL._SL160_.jpg)
 
-[English Patch (N64 - Complete)](https://www.romhacking.net/translations/6293/)
+[English Patch (N64 - Fully Playable)](https://www.romhacking.net/translations/6293/)
 
 [Shiren the Wanderer 2: Oni Invasion! Wiki](https://sharksnack.github.io/shiren-2/)
 
