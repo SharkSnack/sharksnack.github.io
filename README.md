@@ -13,7 +13,7 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 ![Shiren 2 Box Art](https://m.media-amazon.com/images/I/51F3ZTKAVXL._SL160_.jpg)
 
-[English Patch](https://www.romhacking.net/translations/6293/)
+[English Patch (N64 - Complete)](https://www.romhacking.net/translations/6293/)
 
 [Shiren the Wanderer 2: Oni Invasion! Wiki](https://sharksnack.github.io/shiren-2/)
 
@@ -41,15 +41,21 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 ### Shiren Gaiden: Asuka Kenzan! (Dreamcast/PC)
 
+![Asuka Kenzan Box Art](https://m.media-amazon.com/images/I/51H33AWT98L._SL160_.jpg)
+
 English Patch Coming Later™
 
 Shiren Gaiden: Asuka Kenzan! Wiki (currently offline)
 
 ### Shiren GB1 (GB/PC)
 
+![Shiren GB1 Box Art](https://m.media-amazon.com/images/I/510xk39P3AS._SL160_.jpg)
+
 [English Patch (GB - Unreleased)](http://www.grimmtranslations.com/shiren-the-wanderer-gb1/)
 
 ### Shiren GB2 (GBC/DS)
+
+![Shiren GB2 Box Art](https://m.media-amazon.com/images/I/61ERA8A84EL._SL160_.jpg)
 
 [English Patch (GBC - Unreleased)](http://www.grimmtranslations.com/shiren-the-wanderer-gb2/)
 
