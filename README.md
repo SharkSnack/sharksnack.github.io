@@ -45,7 +45,9 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 English Patch Coming Later™
 
-Shiren Gaiden: Asuka Kenzan! Wiki (currently offline)
+[In-game Item Name Translation (PC)](https://sharksnack.github.io/asuka/guides/pc-setup-guide)
+
+[Shiren Gaiden: Asuka Kenzan Wiki](https://sharksnack.github.io/asuka/)
 
 ### Shiren GB1 (GB/PC)
 
